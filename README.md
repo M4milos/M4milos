@@ -20,7 +20,7 @@
     </a>
     <a href="https://steamcommunity.com/profiles/76561198383844746/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
     </a>
-    <a href="https://wa.me//+55470988841791" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://wa.me//+554792756416" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
   
 
@@ -61,3 +61,4 @@
 <br>
 
 <img src="img/github-contribution-grid-snake.svg">
+
